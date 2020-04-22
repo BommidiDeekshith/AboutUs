@@ -1,0 +1,44 @@
+.container1 {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+.middle-left
+{
+	/*font-family: Bangers;*/
+	position: absolute;
+  	top: 42%;	
+	left: 10%;
+	font-size: 44pt;
+	font-family: Bangers; 
+	/*font-size: 24px; */
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 70; 
+	line-height: 26.4px; 
+}
+.first{
+    width: 100%;
+    background: #141414;
+    padding: 25px 0;
+  }
+  .second p {
+    margin: 0;
+    font-size: 14px;
+    color: #878788;
+  }
+  .second p a{
+    color: #ff5e16;
+  }
+  .third li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  .third li:hover a{
+    color: #ff5e16;
+  }
+  .third li a {
+    font-size: 14px;
+    color: #878788;
+  }
